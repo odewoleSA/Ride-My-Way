@@ -1,3 +1,7 @@
-<?php 
-  echo "php is working"
-?>
+<html>
+ <body> 
+    <?php 
+      echo "php is working";
+    ?>
+ </body>
+</html>
