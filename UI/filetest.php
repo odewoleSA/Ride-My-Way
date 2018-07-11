@@ -1,7 +1,8 @@
 <html>
  <body> 
-    <?php 
-      echo "php is working";
+    <?php
+     $write = "php is working";
+      echo ($write);
     ?>
  </body>
 </html>
